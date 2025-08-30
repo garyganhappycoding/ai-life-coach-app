@@ -1,0 +1,5 @@
+{
+  "name": "AI Diary",
+  "description": "A minimalist diary app that uses Gemini to automatically generate a title for each entry.",
+  "requestFramePermissions": []
+}
